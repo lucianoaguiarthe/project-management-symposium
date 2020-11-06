@@ -1,6 +1,6 @@
 
-# Simpósio de Gestão de Projetos e Inovação
-<p align="center"><img src="manuscript/images/project-manager.png"  width="650" height="245" align="middle"/></p>
+# Simpósio de Gestão de Projetos e Inovação da UESPI
+<p align="center"><img src="manuscript/images/project-manager.png"  width="530" height="199" align="middle"/></p>
 
 <p align="justify">Ambiente no qual será disponibilizado material sobre o Simpósio de Gestão de Projetos e Inovação.</p>
 
