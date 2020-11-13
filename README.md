@@ -11,7 +11,7 @@
 ## Apresentação
 
 
-Slide Gestão de Projetos [Clique Aqui](manuscript/anexos/Slide_Gestao_de_Projetos.pdf)
+Slide Gestão de Projetos [Clique Aqui](manuscript/anexos/Slide_Systematic_.pdf)
 
 ## Gravação do Simpósio
 
@@ -19,8 +19,7 @@ Slide Gestão de Projetos [Clique Aqui](manuscript/anexos/Slide_Gestao_de_Projet
 
 ## Materiais Complementares 
 
-Capítulo - Gerenciamento de Projetos Ágil na prática: Processos e Ferramentas para Apoio a Gestão
- - ERIPI 2017 [Clique Aqui](https://www.researchgate.net/publication/334683819_Capitulo_3_Gerenciamento_de_Projetos_Agil_na_pratica_Processos_e_Ferramentas_para_Apoio_a_Gestao)
+Capítulo - Gerenciamento de Projetos Ágil na prática: Processos e Ferramentas para Apoio a Gestão - ERIPI 2017 [Clique Aqui](https://www.researchgate.net/publication/334683819_Capitulo_3_Gerenciamento_de_Projetos_Agil_na_pratica_Processos_e_Ferramentas_para_Apoio_a_Gestao)
 
 Capítulo - Como estimar um Software? Métricas para aferição de Esforço, Prazo e Custo de um Produto de Software - ERCEMAPI 2020 [Clique Aqui](https://www.researchgate.net/publication/344343232_Capitulo_8_Como_estimar_um_Software_Metricas_para_afericao_de_Esforco_Prazo_e_Custo_de_um_Produto_de_Software)
 
