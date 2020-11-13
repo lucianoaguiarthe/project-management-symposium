@@ -8,12 +8,10 @@
 > 
 > Professor: **[Washington Almeida](http://www.profwashingtonalmeida.com.br)** E-mail: whca@cesar.school
 
-## Inscrição
-
 ## Apresentação
 
 
-Slide Gestão de Projetos [Clique Aqui](manuscript/anexos/Slide_Systematic_.pdf)
+Slide Gestão de Projetos [Clique Aqui](manuscript/anexos/Slide_Gestao_de_Projetos.pdf)
 
 ## Gravação da Aula
 
